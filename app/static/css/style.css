@@ -62,3 +62,8 @@ Header
 
     color: #05A88D;
 }
+.adress_tel{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}

@@ -26,7 +26,6 @@ def contacts():
 
 @app.route('/reviews')
 def reviews():
-    
     return render_template('reviews.html')
 
 
